@@ -3,6 +3,7 @@ master a programming language. This is my opinion about the topic, I'm not impos
 anybody and I'm open to discussion.
 
 Steps for learning and mastering a programming language:
+
 1. Literals, language constructs, syntax structures (loops, conditionals, class/method
 	declarations, primitives), syntax pecularities, type-casting
 2. Core functions, methods and/or classes (e.g. for operations with arrays, strings,
