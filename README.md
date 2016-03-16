@@ -5,7 +5,7 @@ anybody and I'm open to discussion.
 Steps for learning and mastering a programming language:
 
 1. Literals, language constructs, syntax structures (loops, conditionals, class/method
-	declarations, primitives), syntax pecularities, type-casting
+	declarations, primitives), syntax pecularities, type-casting/coercing/conversion
 2. Core functions, methods and/or classes (e.g. for operations with arrays, strings,
    file system, date and time etc.)
 3. Standard library (e.g. Standard Python Library, C standard library,
