@@ -21,11 +21,11 @@ Steps for learning and mastering a programming language:
 10. Profiler(s) and performance pecularities
 11. Build system, static code analysis and dependency management tools
 12. Design patterns implementation (in case of OOP)
-13. Unit Testing practises and framework(s)
 14. Reflections/metaprogramming/Introspection
-15. Server-side setup (system administration part)
-16. Security practises
+15. Unit Testing practises and framework(s)
+16. Server-side setup (system administration part)
+17. Security practises
 
-17. Create and maintain a project with a large codebase,
+18. Create and maintain a project with a large codebase,
 having in mind security, performance, maintainability
 and user experience.
