@@ -24,7 +24,7 @@ Steps for learning and mastering a programming language:
 14. Reflections/metaprogramming/Introspection
 15. Unit Testing practises and framework(s)
 16. Server-side setup (system administration part)
-17. Security practises
+17. Security practices.
 
 18. Create and maintain a project with a large codebase,
 having in mind security, performance, maintainability
