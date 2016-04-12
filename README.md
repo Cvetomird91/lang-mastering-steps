@@ -8,7 +8,7 @@ Steps for learning and mastering a programming language:
 	declarations, primitives), syntax pecularities, type-casting/coercing/conversion,
 	operator precedence, scope gates, default return values of functions
 2. Core functions, methods and/or classes (e.g. for operations with arrays, math, strings,
-   file system, date and time etc.)
+   file system, collections, date and time etc.)
 3. Standard library (e.g. Standard Python Library, C standard library,
 	Standard PHP library, jQuery, Ruby stdlib) -
     classes, methods and functions
