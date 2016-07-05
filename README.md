@@ -1,6 +1,5 @@
 Personal vision for various aspects of a programming language one needs to learn in order to
-master it. This is my opinion about the topic, I'm not imposing it to
-anybody and I'm open to discussion.
+master it. I'm not imposing it to anybody and I'm open to discussion.
 
 Steps for learning and mastering a programming language:
 
