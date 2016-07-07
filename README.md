@@ -1,5 +1,6 @@
 Personal vision for various aspects of a programming language one needs to learn in order to
-master it. I'm not imposing it to anybody and I'm open to discussion.
+master it. I'm not imposing it to anybody and I'm open to discussion. I've written those
+steps being influenced by colleagues and friends with a richer experience than mine.
 
 Steps for learning and mastering a programming language:
 
@@ -15,6 +16,7 @@ Steps for learning and mastering a programming language:
 5. Compiler and toolchain (if it is a compiled language)
 6. Theory about the inner workings of the language (e.g. VM, parser/lexer,
 	interpreter, compiler "eco-system")
+7. Become familiar with the language documentation in depth.
 7. IDE(s)/Text editor(s) and their configuration
 8. Code Conventions
 9. Debugger(s) and debugging techniques
