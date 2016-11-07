@@ -27,7 +27,8 @@ Steps for learning and mastering a programming language:
 15. Unit Testing practises and framework(s)
 16. Profiler(s) and performance pecularities
 17. Server-side setup (system administration part)
+18. GUI Toolkit (if the language supports any)
 
-18. Create and maintain a project with a large codebase,
+19. Create and maintain a project with a large codebase,
 having in mind security, performance, maintainability
 and user experience.
