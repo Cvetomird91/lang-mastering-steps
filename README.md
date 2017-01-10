@@ -5,7 +5,7 @@ steps being influenced by colleagues and friends with a richer experience than m
 Steps for learning and mastering a programming language:
 
 1. Literals, language constructs, syntax structures (loops, conditionals, class/method
-	declarations, primitives, literals), syntax pecularities, type-casting/coercing/conversion,
+	declarations, primitives, literals), data types, syntax pecularities, type-casting/coercing/conversion,
 	variable assignment, operator precedence, scope gates, default return values of functions
 2. Core functions, methods and/or classes (e.g. for operations with arrays, math operations, strings,
    file system, collections, date and time etc.)
